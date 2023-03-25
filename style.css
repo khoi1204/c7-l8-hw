@@ -1,0 +1,41 @@
+.container{
+  background-image: url(container);
+}
+
+.bground{
+  background-color: rgba(128, 157, 201, 0.253);
+  padding: 5px;
+  margin: 10px;
+}
+
+.bcrumb{
+  padding: 0px;
+  margin: 10px;
+}
+
+.followmessage{
+  padding: 10px;
+  margin: none;
+}
+
+.link{
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+
+.cleft{
+  margin-bottom: 20px;
+}
+
+.cright{
+  margin-bottom: 20px;
+}
+
+.cyan{
+  color: rgb(116, 174, 211);
+}
+
+.status{
+  padding-top: 8.7px;
+  padding-bottom: 1px;
+}
